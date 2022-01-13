@@ -1,0 +1,5 @@
+Este modelo se explica así:
+Tu eres la empresa y de un lado tienes compradores, y del otro lado tienes vendedores.
+Debes pensar en la logistica, el fraude, el envio, las devoluciones, te pueden comer los costos, y el mas grande de todos es la mercadotecnia.
+Para que tu plataforma de dos frentes funcione, para que tu marketplace funcione, los vendedores tienen que querer ir, y para que ellos quieran ir, tienen que haber compradores.
+Para que los compradores quieran ir, tiene que haber Oferta (Oferta y Demanda), para que ambos se atraigan, únicamente vas a lograrlo con mercadotecnia, la comuicación y la mercadotecnia es la herramienta principal para que sepan que existes y tus comrpadores también y tus vendedores también, así van a crecer los 3 al tiempo, pero es inmensamente caro crear esto desde 0, e inmensamente complejo mantenerlo.
